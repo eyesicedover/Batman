@@ -1,0 +1,29 @@
+echo "                          "
+echo "          .  .            "
+echo " I AM THE |\_|\           "
+echo "  NIGHT!  | a_a\          "
+echo "          | |  ]          "
+echo "      ____| '-\___        "
+echo "     /.----.___.-'\       "
+echo "    //        _    \      "
+echo "   //   .-. (~v~) /|      "
+echo "   |'|  /\:  .--  / \     "
+echo "  // |-/  \_/____/\/~|    "
+echo " |/  \ |  []_|_|_] \ |    "
+echo " | \  | \ |___   _\ ]_}   "
+echo " | |  '-' /   '.'  |      "
+echo " | |     /    /|:  |      "
+echo " | |     |   / |:  /\     "
+echo " | |     /  /  |  /  \    "
+echo " | |    |  /  /  |    \   "
+echo " \ |    |/\/  |/|/\    \  "
+echo "  \|\ |\|  |  | / /\/\__\ "
+echo "   \ \| | /   | |__       "
+echo "        / |   |____)      "
+echo "       |_/                "
+echo "                          "
+
+
+// Commands //
+nano ~/.bashrc
+source ~/.bashrc
